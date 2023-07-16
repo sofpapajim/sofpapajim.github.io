@@ -1,2 +1,2 @@
 # sofpapajim.github.io
-theme: merlot
+theme: architect
